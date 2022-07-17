@@ -1,0 +1,13 @@
+img {
+    position: absolute;
+}
+
+p {
+    position: fixed;
+    top: 80%;
+    left: 50%;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+}
